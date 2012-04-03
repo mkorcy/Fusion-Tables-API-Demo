@@ -1,1 +1,30 @@
 fusion tables demo
+
+General Notes:
+
+1.	Go to http://www.google.com/fusiontables
+2.	Click See My Tables
+3.	Create -> Table
+	a.	From This computer
+		i.	Select excel sheet
+		ii.	Next -> Finish
+4.	File -> Geocode
+5.	File -> About this table
+a.	Record numeric ID
+6.	Record location and filter column names
+	a.	PlacementAddress
+	b. 	PlacementType
+
+Useful information:
+
+Fusion Tables API
+https://developers.google.com/fusiontables/docs/developers_guide
+
+JQuery:
+http://jquery.com/
+
+Google Maps API:
+https://developers.google.com/maps/documentation/javascript/reference
+
+Style Information:
+http://twitter.github.com/bootstrap/base-css.html
